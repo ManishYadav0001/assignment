@@ -31,17 +31,5 @@ It demonstrates how to build **reusable, styled components** (using **React, Typ
 - Row selection  
 - Responsive layout  
 
----
 
-## Storybook Showcase
-All component variants are showcased in **Storybook** with interactive controls.  
-You can view:
-- InputField in all states & sizes  
-- DataTable with default data, empty state, and loading state  
 
----
-
-##  Installation & Setup
-
-Clone the repository:
-```bash
